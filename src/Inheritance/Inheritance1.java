@@ -1,6 +1,7 @@
 package Inheritance;
 
-class Human{
+class Human // Super class / Base class / Parent class
+{
     int age ;
     void sleep(){
         age = 18 ;
@@ -8,7 +9,7 @@ class Human{
         System.out.println(age);
     }
 }
-class Student extends Human
+class Student extends Human // Child class / Sub class / derived class
 {
 
 }
