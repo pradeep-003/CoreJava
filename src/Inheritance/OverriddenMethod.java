@@ -5,7 +5,7 @@ class Parent1{
 
 }
 
-class Child1 extends Parent{
+class Child1 extends Parent1{
 
     @Override
 

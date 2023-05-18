@@ -1,7 +1,8 @@
-package Inheritance;
-
 class Parent{
-
+    public Parent()
+    {
+        System.out.println("Parent class constructor"); // called using super method in child class constructor .
+    }
     public void methodOne(){System.out.println("methodOne from parent");}
 
 }

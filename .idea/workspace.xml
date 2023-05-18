@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fae0652b-cc5a-4f54-8a23-434a64a02600" name="Changes" comment="BattleshipGame.java">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/HasA3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaCodees/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/OverriddenMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/OverriddenMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaCodees/HangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCodees/HangmanGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Inheritance/LaunchApp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Polymorphism/FinalK.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Polymorphism/LaunchAbs.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Polymorphism/Polymorphism2.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PPMN6abQxJjHIILXe2Qu1elI5X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.ConstructorExe" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorExe" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.ConstructorExe" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fae0652b-cc5a-4f54-8a23-434a64a02600" name="Changes" comment="" />
+      <created>1683354222025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683354222025</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commiting Inheritence1">
+      <created>1683355540237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683355540237</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commiting Inheritence1">
+      <created>1683359657119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683359657119</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commiting Inheritence2">
+      <created>1683361530204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683361530204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commiting TestApp">
+      <created>1683366488532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683366488532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commiting Inheritance3,4,5 consist concept of types of inheritance">
+      <created>1683370016678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683370016678</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commiting Inheritance3,4,5 consist concept of types of inheritance">
+      <created>1683385363066</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683385363066</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Hello world!!">
+      <created>1683433240168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683433240168</updated>
+    </task>
+    <task id="LOCAL-00008" summary="this() vs super()">
+      <created>1683433287297</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683433287297</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit Polymorphism">
+      <created>1683442122352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683442122352</updated>
+    </task>
+    <task id="LOCAL-00010" summary="abstract">
+      <created>1683467087441</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683467087441</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final class , method, variable">
+      <created>1683469468182</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683469468182</updated>
+    </task>
+    <task id="LOCAL-00012" summary="without using core java">
+      <created>1683563627086</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683563627086</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" using core java">
+      <created>1683565890637</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683565890637</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" Method overriding">
+      <created>1683567152036</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683567152036</updated>
+    </task>
+    <task id="LOCAL-00015" summary=" Method overriding">
+      <created>1683567732432</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683567732432</updated>
+    </task>
+    <task id="LOCAL-00016" summary=" Method overriding Rule1">
+      <created>1683568122387</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683568122387</updated>
+    </task>
+    <task id="LOCAL-00017" summary=" Method overriding Rule2">
+      <created>1683568568774</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683568568774</updated>
+    </task>
+    <task id="LOCAL-00018" summary=" Method overriding Rule3">
+      <created>1683568860783</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683568860783</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" Method overriding Rule4">
+      <created>1683569378832</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683569378832</updated>
+    </task>
+    <task id="LOCAL-00020" summary="CE: can't find the symbol methodTwo in Parent">
+      <created>1683569858693</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683569858693</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Commit">
+      <created>1683653276550</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1683653276550</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Commit Abstract">
+      <created>1683653960320</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1683653960320</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Injection">
+      <created>1683914174714</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1683914174714</updated>
+    </task>
+    <task id="LOCAL-00024" summary="code1.java">
+      <created>1684157079292</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684157079292</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Interface">
+      <created>1684209600505</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684209600505</updated>
+    </task>
+    <task id="LOCAL-00026" summary="TicTacToe.java">
+      <created>1684247393015</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684247393015</updated>
+    </task>
+    <task id="LOCAL-00027" summary="HangmanGame.java">
+      <created>1684329192814</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684329192814</updated>
+    </task>
+    <task id="LOCAL-00028" summary="BattleshipGame.java">
+      <created>1684406417467</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684406417467</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting Inheritence1" />
+    <MESSAGE value="Commiting Inheritence2" />
+    <MESSAGE value="Commiting TestApp" />
+    <MESSAGE value="Commiting Inheritance3,4,5 consist concept of types of inheritance" />
+    <MESSAGE value="Hello world!!" />
+    <MESSAGE value="this() vs super()" />
+    <MESSAGE value="commit Polymorphism" />
+    <MESSAGE value="abstract" />
+    <MESSAGE value="final class , method, variable" />
+    <MESSAGE value="without using core java" />
+    <MESSAGE value=" using core java" />
+    <MESSAGE value=" Method overriding" />
+    <MESSAGE value=" Method overriding Rule1" />
+    <MESSAGE value=" Method overriding Rule2" />
+    <MESSAGE value=" Method overriding Rule3" />
+    <MESSAGE value=" Method overriding Rule4" />
+    <MESSAGE value="CE: can't find the symbol methodTwo in Parent" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Commit Abstract" />
+    <MESSAGE value="Injection" />
+    <MESSAGE value="code1.java" />
+    <MESSAGE value="Interface" />
+    <MESSAGE value="TicTacToe.java" />
+    <MESSAGE value="HangmanGame.java" />
+    <MESSAGE value="BattleshipGame.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="BattleshipGame.java" />
+  </component>
+</project>

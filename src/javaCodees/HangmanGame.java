@@ -56,6 +56,7 @@ public class HangmanGame {
         System.out.println("|  " + (misses >= 3 ? "/" : "") + (misses >= 2 ? "|" : "") + (misses >= 4 ? "\\" : ""));
         System.out.println("|  " + (misses >= 5 ? "/" : "") + " " + (misses >= 6 ? "\\" : ""));
         System.out.println("|");
+        System.out.println("|");
         System.out.println("=======");
     }
 
