@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fae0652b-cc5a-4f54-8a23-434a64a02600" name="Changes" comment="BattleshipGame.java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/HasA3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCodees/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/OverriddenMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/OverriddenMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/TestApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaCodees/HangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCodees/HangmanGame.java" afterDir="false" />
+    <list default="true" id="fae0652b-cc5a-4f54-8a23-434a64a02600" name="Changes" comment="Commit It!">
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -290,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684406417467</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Commit It!">
+      <created>1686724879053</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1686724879053</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +302,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commiting Inheritence1" />
     <MESSAGE value="Commiting Inheritence2" />
     <MESSAGE value="Commiting TestApp" />
     <MESSAGE value="Commiting Inheritance3,4,5 consist concept of types of inheritance" />
@@ -330,6 +326,7 @@
     <MESSAGE value="TicTacToe.java" />
     <MESSAGE value="HangmanGame.java" />
     <MESSAGE value="BattleshipGame.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="BattleshipGame.java" />
+    <MESSAGE value="Commit It!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit It!" />
   </component>
 </project>
