@@ -1,28 +1,24 @@
 package Interface;
-interface A
+interface A2
 {
     void show();
 }
-interface X
+interface X2
 {
     void abc();
 }
-class B implements A,X
+class B2 implements A2,X2
 {
-    @Override
-    public void show() {
+   public void show(){
         System.out.println("In show");
     }
-
-    @Override
-    public void abc() {
+    public void abc(){
         System.out.println("In abc");
     }
 }
-public class Demo {
+public class Interface2 {
     public static void main(String[] args) {
-        A obj = new B();
+        A2 obj = new B2();
         obj.show();
-
     }
 }
