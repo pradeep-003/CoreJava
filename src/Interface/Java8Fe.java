@@ -1,4 +1,8 @@
 package Interface;
+class C
+{
+
+}
 interface A3
 {
     void show();
@@ -12,7 +16,7 @@ interface A3
     }
 }
 
-class B3 implements A3
+class B3 extends C implements A3
 {
     public void show()
     {
