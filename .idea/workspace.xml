@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fae0652b-cc5a-4f54-8a23-434a64a02600" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Ducking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/TryWithResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/PassingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/University.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Java8Fe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Java8Fe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -326,7 +335,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686845889773</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1687065964878</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1687065964878</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1687070886862</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1687070886862</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
