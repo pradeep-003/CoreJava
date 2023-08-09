@@ -7,10 +7,11 @@ class Student2
     {
         this.h = h ;
     }
-    public void setH()
-    {
-        this.h=h;
+
+    public void setH(Heart h) {
+        this.h = h;
     }
+
     public void call()
     {
         h.heartBeat();
@@ -28,6 +29,6 @@ public class HasA {
     public static void main(String[] args) {
         Heart h = new Heart();
         Student2 s = new Student2(h);
-        s.setH();
+        s.setH(h);
     }
 }
