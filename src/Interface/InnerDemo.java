@@ -5,19 +5,19 @@ package Interface;
 // inner - member, static and Anonymous
 class A4
 {
-    public void show()
+    void show()
     {
         System.out.println("In show");
     }
      class B4
     {
-        public void display()
+      void display()
         {
             System.out.println("In display");
         }
     }
 }
-public class InnerDemo {
+ class InnerDemo {
     public static void main(String[] args) {
         A4 obj = new A4();
         obj.show();

@@ -15,7 +15,7 @@ public class LambdaExpression {
 
         Animal a = () -> System.out.println("Eating...");
         a.Eat();
-        Game g = (boolean goodPlayer) -> System.out.println(goodPlayer);
+        Game g = (goodPlayer) -> System.out.println(goodPlayer);
         g.play(true);
     }
 }

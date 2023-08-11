@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8c9cb54-318a-49bf-a003-9d8ee503c71b" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/google/apps/GoogleBard/Ai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaCodees/Que1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/HasA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/HasA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/InnerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/InnerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/LambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/LambdaExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -381,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689182061064</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1691573456895</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1691573456895</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
