@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8c9cb54-318a-49bf-a003-9d8ee503c71b" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/InnerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/InnerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/LambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/LambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691573456895</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1691739794169</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1691739794169</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
