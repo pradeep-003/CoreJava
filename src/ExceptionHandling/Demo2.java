@@ -8,13 +8,15 @@ public class Demo2 {
 
             System.out.println(10/0);
 
-        }catch(ArithmeticException e){
+        }catch(Exception e){
 
             e.printStackTrace();
 
-            System.out.println(e);
+          //  System.out.println(e);
 
             System.out.println(e.getMessage());
+
+            System.out.println(e.toString());
 
         }
 
