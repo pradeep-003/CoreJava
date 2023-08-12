@@ -1,8 +1,21 @@
 package MultiThreading;
 
 import java.util.Scanner;
-class Calc extends Thread{
+
+class MyThread1 extends Thread
+{
+    @Override
     public void run()
+    {
+        String tName = Thread.currentThread().getName();
+        if(tName == "CALC"){
+            Calc();
+        }else{
+            importantMessage();
+        }
+    }
+
+    public void Calc()
     {
         System.out.println("Calculation Task Started");
 
@@ -18,34 +31,31 @@ class Calc extends Thread{
         System.out.println(res);
         System.out.println("Calculation Task Ended");
     }
-}
 
-class Message extends Thread{
-    @Override
-    public void run() {
+    public void importantMessage()
+    {
         System.out.println("Display Important message Task started");
-      try { for (int i = 0; i < 3; i++) {
+        try { for (int i = 0; i < 3; i++) {
             System.out.println("Focus is important to master skills");
             Thread.sleep(2000);
         }
-      }
-      catch(Exception e){
-          System.out.println("some Problem");
-      }
+        }
+        catch(Exception e){
+            System.out.println("some Problem");
+        }
         System.out.println("Display Important message Task Ended");
-
-
     }
 }
+public class LaunchMulti6 {
+    public static void main(String[] args) {
+        MyThread1 thread1 = new MyThread1();
+        MyThread1 thread2 = new MyThread1();
 
-public class LaunchMulti4 {
-    public static void main(String []args) {
-        System.out.println("main Thread started");
+        thread1.setName("CALC");
+        thread2.setName("PRINT");
 
-        Calc t1 = new Calc();
-        Message t2 = new Message();
+        thread1.start();
+        thread2.start();
 
-        t1.start();
-        t2.start();
     }
 }
