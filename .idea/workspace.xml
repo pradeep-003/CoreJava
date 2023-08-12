@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8c9cb54-318a-49bf-a003-9d8ee503c71b" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/NullPointerExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/google/apps/GoogleBard/Ai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/Prac1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionHandling/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/google/apps/GoogleBard/Ai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/google/apps/GoogleBard/Ai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThreading/LaunchMulti4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConstructorExe">
+  <component name="RunManager">
     <configuration type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Inheritance.ConstructorExe" />
       <module name="CoreJava" />
@@ -404,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691758474584</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1691806449788</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1691806449788</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
