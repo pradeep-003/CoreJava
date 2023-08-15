@@ -26,6 +26,8 @@ public class Prac2 {
         off o = new off();
         Thread t = new Thread(m);
         Thread t1 = new Thread(o);
+        t.setPriority(5);
+        t1.setPriority(7);
         t.start();
         t1.start();
         o.run("off");
