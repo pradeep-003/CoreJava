@@ -28,8 +28,8 @@ class Developer
 }
 public class Main {
     public static void main(String[] args) {
-        Computer obj = new Laptop();
-     //   Computer obj = new Desktop();
+       // Computer obj = new Laptop();
+        Computer obj = new Desktop();
         Developer dev = new Developer();
         dev.buildApp(obj);
     }

@@ -30,6 +30,6 @@ public class Java8Fe {
         A3 obj = new B3();
         obj.config();
         obj.show();
-       //  obj.abc();        Static method may be invoked on containing interface class only
+       //   obj.abc();        Static method may be invoked on containing interface class only
     }
 }

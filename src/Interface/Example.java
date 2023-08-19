@@ -10,6 +10,7 @@ class Hp implements Help
     @Override
     public void help() {
         System.out.println("Helping");
+        System.out.println(a);
     }
 }
 public class Example {

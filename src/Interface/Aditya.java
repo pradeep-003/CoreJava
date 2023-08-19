@@ -4,6 +4,7 @@ class PersonDetails
 {
     Scanner scan = new Scanner(System.in);
 
+
     int age = scan.nextInt();
     Address add ;
     class Address

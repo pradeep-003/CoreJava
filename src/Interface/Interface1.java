@@ -9,5 +9,11 @@ public class Interface1 {
         System.out.println(A1.num);
       // A1 a = new A1();    'A1' is abstract; cannot be instantiated
       //  A1.num = 8 ;       Cannot assign a value to final variable 'num'
+        A1 a  = new A1(){
+                public void show(){
+                    System.out.println("In-Show");
+        }
+        };
+        a.show();
     }
 }
