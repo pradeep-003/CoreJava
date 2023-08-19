@@ -10,7 +10,7 @@ method will override subclass static method,where JVM will generate output from 
 
 class A4{
 
-    static void m1(){
+   static void m1(){
 
         System.out.println("m1-A4");
 

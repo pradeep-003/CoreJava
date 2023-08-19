@@ -25,6 +25,7 @@ public class Inheritance5 {
     public static void main(String[] args) {
         Lion l = new Lion();
         Deer d = new Deer();
+        Deer d1 = new Deer();
         Monkey m = new Monkey();
         Beast b = new Beast();
         l.sleep();
@@ -32,6 +33,7 @@ public class Inheritance5 {
         d.sleep();
         System.out.println(d.equals(m));
         System.out.println(d.equals(b));
+        System.out.println(d.equals(d1));
     }
 }
 

@@ -29,6 +29,7 @@ public class HasA {
     public static void main(String[] args) {
         Heart h = new Heart();
         Student2 s = new Student2(h);
-        s.setH(h);
+       // s.setH(h);
+        s.call();
     }
 }
